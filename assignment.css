@@ -1,0 +1,52 @@
+.col-md-12{
+    text-align: center;
+    padding: 1% 5%;
+    font-size: 30px ;
+    color: rgb(0, 100, 139);
+    border: 1px solid rgba(0, 134, 139, 0.616);
+    box-shadow: 0px 3px rgba(127, 0, 139, 0.356);
+    background-color: rgba(0, 255, 255, 0.041);
+    
+}
+.portfolio{
+    margin: 2% 1% 0% 0%;
+    padding:30px 50px 20px 50px;
+    text-align: center;
+    border: 1px solid black;
+    font-weight: bold;
+    height:400px;
+    background-color: rgba(0, 255, 255, 0.041);
+}
+table{
+    height: 270px;
+    width: 800px;
+    margin-top: 20px;
+}
+.table_background{
+    background-color:rgba(100, 148, 237, 0.37); 
+}
+h4{
+        color: cornflowerblue;
+}
+.li{
+    border: 1px solid black;
+    height: 250px;
+    margin: 0%;
+    box-shadow: 1px 3px cornflowerblue;
+}
+li{
+    font-size:20px;
+}
+h2{
+    text-align: center;
+    color: cornflowerblue;
+    padding-bottom: 2%;
+}
+h5{
+    padding-top: 2%;
+    color:cornflowerblue ;
+    text-align: center;
+}
+a{
+    padding-right: 1%;
+}
